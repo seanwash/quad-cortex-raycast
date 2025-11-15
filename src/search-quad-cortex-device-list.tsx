@@ -64,7 +64,7 @@ export default function Command() {
                   {device.basedOn && device.basedOn.trim() && (
                     <Action.CopyToClipboard content={device.basedOn} title="Copy 'Based On' to Clipboard" />
                   )}
-                  <Action.OpenInBrowser url={DEVICE_LIST_URL} title="Open Quad Cortex device list in browser" />
+                  <Action.OpenInBrowser url={DEVICE_LIST_URL} title="Open Quad Cortex® device list in browser" />
                 </ActionPanel>
               }
             />

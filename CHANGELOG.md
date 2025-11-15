@@ -1,3 +1,3 @@
-# Quad Cortex Device List Changelog
+# Quad Cortex® Device List Changelog
 
 ## [Initial Version] - {PR_MERGE_DATE}

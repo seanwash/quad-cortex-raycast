@@ -4,7 +4,7 @@ import * as path from "path";
 import { DEVICE_LIST_URL } from "../lib/constants";
 
 /**
- * Device data structure extracted from the Neural DSP device list page.
+ * Device data structure extracted from the Neural DSP® device list page.
  */
 interface Device {
   category: string;
@@ -13,7 +13,7 @@ interface Device {
 }
 
 /**
- * Scrapes the Neural DSP Quad Cortex device list page.
+ * Scrapes the Neural DSP® Quad Cortex® device list page.
  *
  * HTML Structure:
  * The page uses a React-based div structure (not HTML tables):
