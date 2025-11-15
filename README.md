@@ -1,0 +1,1 @@
+# Quad Cortex Device List
