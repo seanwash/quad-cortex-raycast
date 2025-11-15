@@ -17,14 +17,22 @@
     {
       "name": "search-quad-cortex-device-list",
       "title": "Search Quad Cortex® device list",
+      "subtitle": "Search",
       "description": "Search the Neural DSP® Quad Cortex® device list by name, category, or based on…",
       "mode": "view"
     },
     {
       "name": "view-quad-cortex-manual",
       "title": "View Quad Cortex® Manual",
-      "subtitle": "View the Quad Cortex® manual",
-      "description": "",
+      "subtitle": "View PDF",
+      "description": "View the Quad Cortex® manual",
+      "mode": "no-view"
+    },
+    {
+      "name": "view-cortex-control-manual",
+      "title": "View Cortex Control™ Manual",
+      "subtitle": "View PDF",
+      "description": "View the Cortex Control™ manual",
       "mode": "no-view"
     }
   ],
